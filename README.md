@@ -1,4 +1,4 @@
-# dog-mongodb
+# dogmongodb
 
 TODO: Enter the cookbook description here.
 
